@@ -1,0 +1,12 @@
+.outputArea  {
+  border: 1px solid #ccc;
+  background-color: #ddd;
+  display: block;
+  padding: 8px;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  max-height: 134px;
+  overflow-y: scroll;
+  width: 200px;
+  height: 70px;
+}
