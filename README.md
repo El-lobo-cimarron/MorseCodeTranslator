@@ -1,1 +1,1 @@
-https://el-lobo-cimarron.github.io/MorseCodeTranslator/
+https://maroungrey.github.io/MorseCodeTranslator/
